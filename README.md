@@ -5,6 +5,7 @@
 ### Game Mechanics and Story
 
 -Turkish dubbing with AI empowered
+
 -The player is an employee working at the hotel.
 
 -While he was cleaning the last room in a room on the 10th floor, 
