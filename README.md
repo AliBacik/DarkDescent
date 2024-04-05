@@ -22,3 +22,18 @@ or use the elevator in front of him if there is no anomaly.
 Youtube: https://youtu.be/dLR_q3CpIB4
 
 Pictures from the game concept
+
+![Ekran görüntüsü 2024-04-05 124405](https://github.com/AliBacik/DarkDescent/assets/150438663/9d284dd0-4256-4113-a48f-dd0b6fb29703)
+
+![1](https://github.com/AliBacik/DarkDescent/assets/150438663/9556e92c-8e7b-4da8-9447-aa5ea36f0f18)
+
+![Ekran görüntüsü 2024-04-05 124900](https://github.com/AliBacik/DarkDescent/assets/150438663/5ea06c8d-327b-44b2-af51-f0de6800dd8d)
+
+![Ekran görüntüsü 2024-04-05 124935](https://github.com/AliBacik/DarkDescent/assets/150438663/acfbc44e-ade8-4c2c-8789-2b9b6b318aa4)
+
+![Ekran görüntüsü 2024-04-05 124953](https://github.com/AliBacik/DarkDescent/assets/150438663/9518f0b8-039f-44ed-a6c8-058c23790af2)
+
+![Ekran görüntüsü 2024-04-05 124922](https://github.com/AliBacik/DarkDescent/assets/150438663/86f1d655-6790-4867-9a83-d4006e0180c9)
+
+
+
