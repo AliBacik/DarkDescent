@@ -21,11 +21,8 @@ Pictures from the game
 
 LAST UPDATED 24.05.2024
 
-![Ekran görüntüsü 2024-05-23 220957](https://github.com/AliBacik/DarkDescent/assets/150438663/9f8867a0-ef65-4cd2-9bd5-3e1a818c9d69)
-
-![Ekran görüntüsü 2024-05-22 222449](https://github.com/AliBacik/DarkDescent/assets/150438663/445522b7-7a0d-45c3-a345-7a95ad7d0428)
-
-![Ekran görüntüsü 2024-05-23 221016](https://github.com/AliBacik/DarkDescent/assets/150438663/34c623b0-ef86-441b-98f1-35f0b344364c)
-
-![Ekran görüntüsü 2024-05-23 221035](https://github.com/AliBacik/DarkDescent/assets/150438663/42331538-c2fa-4bca-9a5f-6230a531a09f)
-
+![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/1.png)
+![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/2.png)
+![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/3.png)
+![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/4.png)
+![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/5.png)
