@@ -21,6 +21,8 @@ Pictures from the game
 
 **LAST UPDATED 24.05.2024**
 
+![](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/cut.gif)
+
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/1.png)
 
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/2.png)
