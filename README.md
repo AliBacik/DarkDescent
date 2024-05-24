@@ -19,7 +19,7 @@ or use the elevator in front of him if there is no anomaly.
 
 Pictures from the game
 
-###LAST UPDATED 24.05.2024
+### LAST UPDATED 24.05.2024
 
 ![](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/cut.gif)
 
