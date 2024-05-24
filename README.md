@@ -19,10 +19,14 @@ or use the elevator in front of him if there is no anomaly.
 
 Pictures from the game
 
-LAST UPDATED 24.05.2024
+**LAST UPDATED 24.05.2024**
 
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/1.png)
+
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/2.png)
+
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/3.png)
+
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/4.png)
+
 ![alt text](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/5.png)
