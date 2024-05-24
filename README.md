@@ -18,9 +18,9 @@ or use the elevator in front of him if there is no anomaly.
 
 -While it is possible that there is an anomaly, there is also the possibility that it is not. Thus, the player competes with his memory.
 
-Pictures from the game
-
 ### LAST UPDATED 24.05.2024
+
+**Pictures from the game**
 
 ![](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/cut.gif)
 
