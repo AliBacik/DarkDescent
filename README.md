@@ -1,5 +1,5 @@
-# DarkDescent
-3D Horror Game 
+# DarkDescent 1.0
+3D Horror Game made with Unity.
 3D Psychological horror game. As a hotel employee trying to go from the 10th floor to the bottom floor, you will witness anomalies on the floor. It is a game that creates a tension-filled atmosphere while the player tries to get to the bottom floor by making the right choices.
 
 ### Game Mechanics and Story
@@ -19,7 +19,7 @@ or use the elevator in front of him if there is no anomaly.
 
 Pictures from the game
 
-**LAST UPDATED 24.05.2024**
+###LAST UPDATED 24.05.2024
 
 ![](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/cut.gif)
 
