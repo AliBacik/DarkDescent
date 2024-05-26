@@ -24,6 +24,20 @@ or use the elevator in front of him if there is no anomaly.
 
 ### ------LAST UPDATED 24.05.2024------
 
+- [x] Fixed Headbob and Camera Position.
+- [x] Fixed visual problems related to Occlusion Culling.
+- [x] Fixed settings set to default when game starts.
+- [x] Fixed player steps do not sound properly with movement.
+- [x] Fixed camera rotation to the specific anomalies.
+- [x] Fixed credits' button unexpected behaviours.
+- [x] Added new Option settings.
+- [x] Added new Anomalies.
+- [x] Added new game objects.
+- [x] Added new environmental changings to the room.
+- [x] Added new NPC.
+- [x] Added new Sounds and Scary elements.  
+
+      
 **Pictures from the game**
 
 ![](https://github.com/AliBacik/DarkDescent/blob/main/GameShots/cut.gif)
