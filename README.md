@@ -1,4 +1,8 @@
 # DarkDescent 1.0
+
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
 3D Horror Game made with Unity.
 
 As a hotel employee trying to go from the 10th floor to the bottom floor, you will witness anomalies on the floor. It is a game that creates a tension-filled atmosphere while the player tries to get to the bottom floor by making the right choices.
