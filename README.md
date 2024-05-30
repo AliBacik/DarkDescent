@@ -37,7 +37,7 @@ or use the elevator in front of him if there is no anomaly.
 - [x] Added new NPC.
 - [x] Added new Sounds and Scary elements.  
 
-##PORTFOLIO
+## PORTFOLIO
 
 https://www.canva.com/design/DAGGuMQMf5c/cGxG_z3ZPQ1rqGdiLApdxA/edit?utm_content=DAGGuMQMf5c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
       
